@@ -1,43 +1,3 @@
-
-Skip to content
-
-    Pricing
-
-Sign in
-Sign up
-junegunn /
-vim-plug
-Public
-
-Code
-Issues 103
-Pull requests 16
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-vim-plug/plug.vim
-@junegunn
-junegunn PlugDiff: Press enter on the name of a plugin to see the full diff
-Latest commit 8fdabfb May 3, 2022
-History
-42 contributors
-@junegunn
-@starcraftman
-@janlazo
-@mattn
-@blueyed
-@vheon
-@srstevenson
-@mhinz
-@itspriddle
-@yous
-@gh4w
-@whonore
-2812 lines (2545 sloc) 81.2 KB
 " vim-plug: Vim plugin manager
 " ============================
 "
@@ -2850,20 +2810,3 @@ endif
 
 let &cpo = s:cpo_save
 unlet s:cpo_save
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-vim-plug/plug.vim at ddce935b16fbaaf02ac96f9f238deb04d4d33a31 · junegunn/vim-plug · GitHub
